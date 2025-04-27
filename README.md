@@ -27,24 +27,6 @@ To run the application, you will need the following software and packages instal
 
 ---
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/NikodemNowak/newton-chebyshev.git
-   cd newton-chebyshev
-
-2. **Set Up a Virtual Environment (Optional but Recommended)**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-
----
-
 ## Usage
 
 1. **Launch the Application: Run the following command in your terminal:**
