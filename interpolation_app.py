@@ -43,6 +43,11 @@ FUNKCJE = {
         "latex_str": r"e^{|x-1|} - 2",
         "is_polynomial": False
     },
+    "1/(1+25*x^2)": {
+        "f": lambda x: 1 / (1 + (25 * x ** 2)),
+        "latex_str": r"\frac{1}{1+25x^2}",
+        "is_polynomial": False
+    },
 }
 
 # --- Funkcja do parsowania wczytanego pliku ---
